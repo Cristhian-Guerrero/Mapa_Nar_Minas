@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    /* Coloca los elementos al principio del eje horizontal */
+    align-items: center;
+    /* Centra los elementos verticalmente */
+    min-height: 100vh;
+}
+
+.graf {
+    background-color: #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    /* Agrega margen inferior */
+}
+
+.mapadiv {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    overflow: hidden;
+    width: fit-content;
+    background: #6783d6;
+}
+
+.mapadiv svg {
+    max-width: 200%;
+    max-height: 200%;
+}
+
+.mapadiv path {
+    fill: #F0E68C;
+    stroke: #504f4f;
+    stroke-width: 2px;
+}
+
+.mapadiv .escogido {
+    fill: rgb(243, 182, 91);
+    stroke: #646464;
+    stroke-width: 2px;
+}
+
+.mapadiv :hover {
+    fill: #800000;
+}

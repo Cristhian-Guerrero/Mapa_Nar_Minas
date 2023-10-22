@@ -1,0 +1,24 @@
+Albán, 5
+Ancuya, 23 
+Belén, 57
+Buesaco, 10  
+Cumbitara, 46
+El Rosario, 48
+Tablón de Gómez, 
+Funes, 13
+Imués, 18
+La Cruz, 3
+Linares,32 
+Providencia, 40 
+San Bernardo,4 
+Sandoná, 24
+Santacruz, 42
+Tangua, 12
+
+Yacuanquer 19
+Los Andes 45
+Cumbal, 50 
+Guachucal 37
+Potosí 15 
+
+pasto 11 
